@@ -53,7 +53,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -367,10 +367,10 @@ Retain incident packs per the entity's evidence retention policy and APRA expect
 
 ## Related Frameworks in This Repository
 
-- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)
-- [SOC 2 Type II](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md)
-- [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) — where the entity processes card data
-- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — useful technical control reference for control-design conversations
+- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)
+- [SOC 2 Type II](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md)
+- [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) — where the entity processes card data
+- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — useful technical control reference for control-design conversations
 
 ---
 
@@ -386,4 +386,4 @@ Retain incident packs per the entity's evidence retention policy and APRA expect
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
