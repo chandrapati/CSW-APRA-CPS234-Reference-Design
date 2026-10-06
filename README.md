@@ -2,6 +2,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.CSW-APRA-CPS234-Reference-Design&left_text=visitors)
 
+![Cisco Secure Workload compliance reference design](assets/hero.png)
+
 ![Framework](https://img.shields.io/badge/Framework-APRA%20CPS%20234-003366)
 ![Platform](https://img.shields.io/badge/Platform-Cisco%20Secure%20Workload%204.0-1BA0D7)
 ![Type](https://img.shields.io/badge/Type-Reference%20Design-107C41)
